@@ -1,0 +1,6 @@
+D:\practic\Csharp_online\dataType1\dataType1\bin\Debug\dataType1.exe.config
+D:\practic\Csharp_online\dataType1\dataType1\bin\Debug\dataType1.exe
+D:\practic\Csharp_online\dataType1\dataType1\bin\Debug\dataType1.pdb
+D:\practic\Csharp_online\dataType1\dataType1\obj\Debug\dataType1.csprojResolveAssemblyReference.cache
+D:\practic\Csharp_online\dataType1\dataType1\obj\Debug\dataType1.exe
+D:\practic\Csharp_online\dataType1\dataType1\obj\Debug\dataType1.pdb
