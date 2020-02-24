@@ -1,0 +1,6 @@
+D:\practic\c#\input\input\bin\Debug\input.exe.config
+D:\practic\c#\input\input\bin\Debug\input.exe
+D:\practic\c#\input\input\bin\Debug\input.pdb
+D:\practic\c#\input\input\obj\Debug\input.csprojResolveAssemblyReference.cache
+D:\practic\c#\input\input\obj\Debug\input.exe
+D:\practic\c#\input\input\obj\Debug\input.pdb

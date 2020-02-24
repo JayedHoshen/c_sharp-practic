@@ -1,0 +1,5 @@
+D:\practic\c#\output\output\bin\Debug\output.exe.config
+D:\practic\c#\output\output\bin\Debug\output.exe
+D:\practic\c#\output\output\bin\Debug\output.pdb
+D:\practic\c#\output\output\obj\Debug\output.exe
+D:\practic\c#\output\output\obj\Debug\output.pdb

@@ -1,0 +1,5 @@
+D:\practic\c#\variable\variable\bin\Debug\variable.exe.config
+D:\practic\c#\variable\variable\bin\Debug\variable.exe
+D:\practic\c#\variable\variable\bin\Debug\variable.pdb
+D:\practic\c#\variable\variable\obj\Debug\variable.exe
+D:\practic\c#\variable\variable\obj\Debug\variable.pdb

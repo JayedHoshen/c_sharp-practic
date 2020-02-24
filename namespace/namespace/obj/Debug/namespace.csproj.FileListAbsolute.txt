@@ -1,0 +1,6 @@
+D:\practic\c#\namespace\namespace\bin\Debug\@namespace.exe.config
+D:\practic\c#\namespace\namespace\obj\Debug\namespace.csprojResolveAssemblyReference.cache
+D:\practic\c#\namespace\namespace\bin\Debug\@namespace.exe
+D:\practic\c#\namespace\namespace\bin\Debug\@namespace.pdb
+D:\practic\c#\namespace\namespace\obj\Debug\@namespace.exe
+D:\practic\c#\namespace\namespace\obj\Debug\@namespace.pdb
