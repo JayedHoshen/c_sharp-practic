@@ -1,0 +1,5 @@
+D:\practic\Csharp_online\inputMethod\inputMethod\bin\Debug\inputMethod.exe.config
+D:\practic\Csharp_online\inputMethod\inputMethod\bin\Debug\inputMethod.exe
+D:\practic\Csharp_online\inputMethod\inputMethod\bin\Debug\inputMethod.pdb
+D:\practic\Csharp_online\inputMethod\inputMethod\obj\Debug\inputMethod.exe
+D:\practic\Csharp_online\inputMethod\inputMethod\obj\Debug\inputMethod.pdb

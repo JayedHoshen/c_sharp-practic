@@ -1,2 +1,6 @@
 D:\practic\Csharp_online\typeConvertion\typeConvertion\bin\Debug\typeConvertion.exe.config
 D:\practic\Csharp_online\typeConvertion\typeConvertion\obj\Debug\typeConvertion.csprojResolveAssemblyReference.cache
+D:\practic\Csharp_online\typeConvertion\typeConvertion\bin\Debug\typeConvertion.exe
+D:\practic\Csharp_online\typeConvertion\typeConvertion\bin\Debug\typeConvertion.pdb
+D:\practic\Csharp_online\typeConvertion\typeConvertion\obj\Debug\typeConvertion.exe
+D:\practic\Csharp_online\typeConvertion\typeConvertion\obj\Debug\typeConvertion.pdb

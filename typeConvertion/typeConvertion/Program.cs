@@ -10,7 +10,9 @@ namespace typeConversion {
             char alpha;
             alpha = (char)num3;
             total = num1 + num2;
-            Console.WriteLine($"Total is: {total}");
+            Console.WriteLine("Total is: {0}", total);
+            Console.WriteLine("alphabet is: {0}", alpha);
+            Console.ReadLine();
         }
     }
 }
