@@ -1,0 +1,6 @@
+D:\practic\Csharp_online\operatorPrecedence\operatorPrecedence\bin\Debug\operatorPrecedence.exe.config
+D:\practic\Csharp_online\operatorPrecedence\operatorPrecedence\bin\Debug\operatorPrecedence.exe
+D:\practic\Csharp_online\operatorPrecedence\operatorPrecedence\bin\Debug\operatorPrecedence.pdb
+D:\practic\Csharp_online\operatorPrecedence\operatorPrecedence\obj\Debug\operatorPrecedence.csprojResolveAssemblyReference.cache
+D:\practic\Csharp_online\operatorPrecedence\operatorPrecedence\obj\Debug\operatorPrecedence.exe
+D:\practic\Csharp_online\operatorPrecedence\operatorPrecedence\obj\Debug\operatorPrecedence.pdb

@@ -1,0 +1,5 @@
+D:\practic\Csharp_online\operator1\operator1\bin\Debug\operator1.exe.config
+D:\practic\Csharp_online\operator1\operator1\bin\Debug\operator1.exe
+D:\practic\Csharp_online\operator1\operator1\bin\Debug\operator1.pdb
+D:\practic\Csharp_online\operator1\operator1\obj\Debug\operator1.exe
+D:\practic\Csharp_online\operator1\operator1\obj\Debug\operator1.pdb

@@ -1,0 +1,5 @@
+D:\practic\Csharp_online\ralationalOperator\ralationalOperator\bin\Debug\ralationalOperator.exe.config
+D:\practic\Csharp_online\ralationalOperator\ralationalOperator\bin\Debug\ralationalOperator.exe
+D:\practic\Csharp_online\ralationalOperator\ralationalOperator\bin\Debug\ralationalOperator.pdb
+D:\practic\Csharp_online\ralationalOperator\ralationalOperator\obj\Debug\ralationalOperator.exe
+D:\practic\Csharp_online\ralationalOperator\ralationalOperator\obj\Debug\ralationalOperator.pdb

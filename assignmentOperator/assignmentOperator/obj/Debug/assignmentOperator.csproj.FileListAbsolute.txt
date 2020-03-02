@@ -1,0 +1,5 @@
+D:\practic\Csharp_online\assignmentOperator\assignmentOperator\bin\Debug\assignmentOperator.exe.config
+D:\practic\Csharp_online\assignmentOperator\assignmentOperator\bin\Debug\assignmentOperator.exe
+D:\practic\Csharp_online\assignmentOperator\assignmentOperator\bin\Debug\assignmentOperator.pdb
+D:\practic\Csharp_online\assignmentOperator\assignmentOperator\obj\Debug\assignmentOperator.exe
+D:\practic\Csharp_online\assignmentOperator\assignmentOperator\obj\Debug\assignmentOperator.pdb

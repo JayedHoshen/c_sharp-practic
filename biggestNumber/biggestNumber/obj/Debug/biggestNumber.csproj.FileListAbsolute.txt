@@ -1,0 +1,6 @@
+D:\practic\Csharp_online\biggestNumber\biggestNumber\bin\Debug\biggestNumber.exe.config
+D:\practic\Csharp_online\biggestNumber\biggestNumber\bin\Debug\biggestNumber.exe
+D:\practic\Csharp_online\biggestNumber\biggestNumber\bin\Debug\biggestNumber.pdb
+D:\practic\Csharp_online\biggestNumber\biggestNumber\obj\Debug\biggestNumber.csprojResolveAssemblyReference.cache
+D:\practic\Csharp_online\biggestNumber\biggestNumber\obj\Debug\biggestNumber.exe
+D:\practic\Csharp_online\biggestNumber\biggestNumber\obj\Debug\biggestNumber.pdb

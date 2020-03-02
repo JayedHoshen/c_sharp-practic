@@ -1,0 +1,6 @@
+D:\practic\Csharp_online\bitwiseOperator\bitwiseOperator\bin\Debug\bitwiseOperator.exe.config
+D:\practic\Csharp_online\bitwiseOperator\bitwiseOperator\bin\Debug\bitwiseOperator.exe
+D:\practic\Csharp_online\bitwiseOperator\bitwiseOperator\bin\Debug\bitwiseOperator.pdb
+D:\practic\Csharp_online\bitwiseOperator\bitwiseOperator\obj\Debug\bitwiseOperator.csprojResolveAssemblyReference.cache
+D:\practic\Csharp_online\bitwiseOperator\bitwiseOperator\obj\Debug\bitwiseOperator.exe
+D:\practic\Csharp_online\bitwiseOperator\bitwiseOperator\obj\Debug\bitwiseOperator.pdb
