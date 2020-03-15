@@ -1,0 +1,5 @@
+D:\practic\Csharp_online\nestedifelse\nestedifelse\bin\Debug\nestedifelse.exe.config
+D:\practic\Csharp_online\nestedifelse\nestedifelse\bin\Debug\nestedifelse.exe
+D:\practic\Csharp_online\nestedifelse\nestedifelse\bin\Debug\nestedifelse.pdb
+D:\practic\Csharp_online\nestedifelse\nestedifelse\obj\Debug\nestedifelse.exe
+D:\practic\Csharp_online\nestedifelse\nestedifelse\obj\Debug\nestedifelse.pdb

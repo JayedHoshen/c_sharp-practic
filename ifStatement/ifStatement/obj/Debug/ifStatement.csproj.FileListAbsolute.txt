@@ -1,0 +1,6 @@
+D:\practic\Csharp_online\ifStatement\ifStatement\bin\Debug\ifStatement.exe.config
+D:\practic\Csharp_online\ifStatement\ifStatement\bin\Debug\ifStatement.exe
+D:\practic\Csharp_online\ifStatement\ifStatement\bin\Debug\ifStatement.pdb
+D:\practic\Csharp_online\ifStatement\ifStatement\obj\Debug\ifStatement.csprojResolveAssemblyReference.cache
+D:\practic\Csharp_online\ifStatement\ifStatement\obj\Debug\ifStatement.exe
+D:\practic\Csharp_online\ifStatement\ifStatement\obj\Debug\ifStatement.pdb
