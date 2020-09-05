@@ -1,0 +1,7 @@
+E:\workingFiles\professionalWorks\allRepogetoris\c_sharp-practic\second\hello_ide\hello_ide\bin\Debug\hello_ide.exe.config
+E:\workingFiles\professionalWorks\allRepogetoris\c_sharp-practic\second\hello_ide\hello_ide\bin\Debug\hello_ide.exe
+E:\workingFiles\professionalWorks\allRepogetoris\c_sharp-practic\second\hello_ide\hello_ide\bin\Debug\hello_ide.pdb
+E:\workingFiles\professionalWorks\allRepogetoris\c_sharp-practic\second\hello_ide\hello_ide\obj\Debug\hello_ide.csprojAssemblyReference.cache
+E:\workingFiles\professionalWorks\allRepogetoris\c_sharp-practic\second\hello_ide\hello_ide\obj\Debug\hello_ide.csproj.CoreCompileInputs.cache
+E:\workingFiles\professionalWorks\allRepogetoris\c_sharp-practic\second\hello_ide\hello_ide\obj\Debug\hello_ide.exe
+E:\workingFiles\professionalWorks\allRepogetoris\c_sharp-practic\second\hello_ide\hello_ide\obj\Debug\hello_ide.pdb
